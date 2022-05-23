@@ -1,0 +1,3 @@
+[submodule "nexter-website"]
+	path = nexter-website
+	url = https://github.com/valeshgopal/nexter-website.git
