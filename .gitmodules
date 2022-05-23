@@ -4,3 +4,6 @@
 [submodule "acme-web"]
 	path = acme-web
 	url = https://github.com/valeshgopal/acme-web.git
+[submodule "manage-tailwind-template"]
+	path = manage-tailwind-template
+	url = https://github.com/valeshgopal/manage-tailwind-template.git
