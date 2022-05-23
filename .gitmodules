@@ -10,3 +10,6 @@
 [submodule "pricing-table"]
 	path = pricing-table
 	url = https://github.com/valeshgopal/pricing-table.git
+[submodule "fcc-survey-form"]
+	path = fcc-survey-form
+	url = https://github.com/valeshgopal/fcc-survey-form.git
