@@ -13,3 +13,6 @@
 [submodule "fcc-survey-form"]
 	path = fcc-survey-form
 	url = https://github.com/valeshgopal/fcc-survey-form.git
+[submodule "documentation-page"]
+	path = documentation-page
+	url = https://github.com/valeshgopal/documentation-page.git
