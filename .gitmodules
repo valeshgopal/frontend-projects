@@ -1,3 +1,6 @@
 [submodule "nexter-website"]
 	path = nexter-website
 	url = https://github.com/valeshgopal/nexter-website.git
+[submodule "acme-web"]
+	path = acme-web
+	url = https://github.com/valeshgopal/acme-web.git
