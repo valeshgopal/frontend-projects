@@ -7,3 +7,6 @@
 [submodule "manage-tailwind-template"]
 	path = manage-tailwind-template
 	url = https://github.com/valeshgopal/manage-tailwind-template.git
+[submodule "pricing-table"]
+	path = pricing-table
+	url = https://github.com/valeshgopal/pricing-table.git
