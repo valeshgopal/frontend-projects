@@ -47,6 +47,7 @@ body {
 
 .subheading {
   text-align: center;
+  margin-top: 0.75rem;
 }
 
 .container {
@@ -54,6 +55,7 @@ body {
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 2rem;
   padding: 2rem 5rem;
+  margin-top: 2rem;
 }
 
 .card {
@@ -99,7 +101,7 @@ body {
 .footer {
   width: 100vw;
   position: relative;
-  margin-top: 8rem;
+  margin-top: 10rem;
 }
 
 .ocean {
